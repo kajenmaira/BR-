@@ -10,5 +10,5 @@ Black and white
 */
 
 body {
-    background-image: image(stjerne-baggrund.png);
+    background-image: url(Stjerne-baggrund.png);
 }
