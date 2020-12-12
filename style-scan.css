@@ -11,8 +11,12 @@ Black and white
 */
 
 body {
-    background-image: url(Stjerne-baggrund.png);
+    background-image: url(img/Stjerne-baggrund.png);
+    font-family: 'Annie Use Your Telescope', cursive; 
+    font-size: 2em;
+    text-align: center;
 }
+
 
 /*Scan nisse (sn)*/
 
