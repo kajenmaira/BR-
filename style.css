@@ -14,7 +14,12 @@ body {
 }
 
 p {
-    background-color: #E3000F;
+    color: white;
+  text-shadow:
+   -1px -1px 0  #E3000F,  
+    1px -1px 0  #E3000F,
+    -1px 1px 0  #E3000F,
+     1px 1px 0 #E3000F;
     font-family: 'Annie Use Your Telescope', cursive; 
     color: white;
 }
@@ -46,7 +51,12 @@ p {
     font-size: 1.5em;
     color: white;
     text-align: center;
-    background-color:  #E3000F;
+    text-shadow:
+    -1px -1px 0  #E3000F,  
+    1px -1px 0  #E3000F,
+    -1px 1px 0  #E3000F,
+     1px 1px 0 #E3000F;
+    
 }
 
 h2 {
