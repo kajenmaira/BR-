@@ -13,8 +13,15 @@ Black and white
 body {
     background-image: url(img/Stjerne-baggrund.png);
     font-family: 'Annie Use Your Telescope', cursive; 
+    color: white;
+    text-shadow:
+    -1px -1px 0  #E3000F,  
+    1px -1px 0  #E3000F,
+    -1px 1px 0  #E3000F,
+     1px 1px 0 #E3000F;
     font-size: 2em;
     text-align: center;
+
 }
 
 
