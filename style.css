@@ -11,6 +11,7 @@ Black and white
 
 body {
     background-image: url(img/Stjerne-baggrund.png);
+    overflow: hidden;
 }
 
 p {
@@ -64,6 +65,15 @@ h2 {
 }
 /*Loading-site*/
 
+.br-logo {
+    position: relative;
+    text-align: center;
+}
+
+.kane {
+
+}
+
 /*Frontpage (fp)*/
 
 h1 {
@@ -74,7 +84,10 @@ h1 {
 
 .xmastree-gif-fp {
     max-width: 220px;
-    text-align: center;
+    position: relative;
+    overflow: hidden;
+    clip: rect(8px, 420px, 450px, 40px);
+    left: 0px;
 }
 
 button {
@@ -88,6 +101,7 @@ button {
         border-radius: 8px;
         margin: 1em;
 }
+
 /*Gamestart (gs)*/
 
 /*Find Nisse (fn)*/
