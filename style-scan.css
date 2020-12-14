@@ -20,10 +20,19 @@ body {
     -1px 1px 0  #E3000F,
      1px 1px 0 #E3000F;
     font-size: 2em;
-    text-align: center;
-
 }
 
+h3 {
+    position: relative;
+    left: 90px;
+}
+.scan-img {
+   position: absolute;
+   overflow: hidden;
+   clip: rect(8px, 420px, 450px, 40px);
+   left: 15px;
+
+}
 
 /*Scan nisse (sn)*/
 
