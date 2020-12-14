@@ -19,24 +19,30 @@ body {
     1px -1px 0  #E3000F,
     -1px 1px 0  #E3000F,
      1px 1px 0 #E3000F;
-    font-size: 2em;
+   
 }
 
 h3 {
+    text-align: center;
+     font-size: 3em;
     position: relative;
-    left: 90px;
+    left: 40px;
 }
+
 .scan-img {
    position: absolute;
    overflow: hidden;
    clip: rect(8px, 420px, 450px, 40px);
-   left: 15px;
+   left: 0px;
 
 }
 
 /*Scan nisse (sn)*/
 
 /*Scan food (sf)*/
+
+/*Scan spoon (ss)*/
+
 
 /*Scan parents (spr)*/
 
