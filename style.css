@@ -73,6 +73,10 @@ h2 {
 
 .kane {
     max-width: 300px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin: 0;
 }
 
 
