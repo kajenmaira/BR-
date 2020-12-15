@@ -48,7 +48,7 @@ p {
 
 /*Tillykke siderne */
 .main-tl {
-    font-family: font-family: 'Arima Madurai', cursive;
+    font-family:'Arima Madurai', cursive;
     font-size: 1.8em;
     color: white;
     text-align: center;
@@ -57,67 +57,57 @@ p {
     1px -1px 0  #E3000F,
     -1px 1px 0  #E3000F,
      1px 1px 0 #E3000F;
-    
 }
+
 
 h2 {
     margin-top: 0;
 }
 /*Loading-site*/
 
-.br-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
+/*Loading-site*/
 
-.kane {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    padding: 0.5em;
-    background-color: rgb(248, 180, 168);
-    border: none;
-    border-radius: 8px;
-    margin: 1em;
+.BR-logo {
+    
 }
+
+.kane {
+    max-width: 300px;
+}
+
 
 /*Frontpage (fp)*/
 
-h1 {
-    color: white;
-    font-size: 50px;
-    text-align: center;
+.deltage {
+    font-family: 'Annie Use Your Telescope', cursive; 
+    background-color: rgb(248, 180, 168);
+    border: none;
+    border-radius: 8px;
+    font-size: 2em;
+    position: fixed;
+    bottom: 0.2em;
+    left: 30px;
 }
 
 .xmastree-gif-fp {
-    max-width: 220px;
     position: relative;
-    overflow: hidden;
+    left: 60px;
 }
 
-.intro-text {
+.header-fp {
     color: white;
-    font-size: 200px;
-  text-shadow:
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow:
    -1px -1px 0  #E3000F,  
     1px -1px 0  #E3000F,
     -1px 1px 0  #E3000F,
      1px 1px 0 #E3000F;
-    font-family: 'Annie Use Your Telescope', cursive; 
-    color: white;
+     transform: rotate(-20deg);
 }
 
-button {
-    font-family: 'Annie Use Your Telescope', cursive;
-    font-size: 23px;
-    position: fixed;
-    bottom: 0;
-    padding: 0.5em;
-    background-color: rgb(248, 180, 168);
-    border: none;
-    border-radius: 8px;
-    margin: 1em;
+.intro-text {
+    font-size: 1.4em;
+    margin-top: 0;
 }
 
 /*
@@ -125,11 +115,25 @@ button {
 /*Gamestart (gs)*/
 
 /*Find Nisse (fn)*/
+.intro-skateboard {
+    font-size: 2em;
+}
 
 
 /*Tillykke Nisse (tln)*/
 
 /*Find Food (ff)*/
+
+.BR-ff {
+    max-width: 200px;
+    position: relative;
+    left: 70px;
+}
+
+.p-ff {
+    font-size: 1.5em;
+}
+
 
 
 /*Tillykke Food (tlf)*/
