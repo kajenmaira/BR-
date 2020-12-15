@@ -155,8 +155,6 @@ h2 {
     font-size: 1.6em;
 }
 
-
-
 /*Tillykke Food (tlf)*/
 
 /*Find spoon (fs)*/
@@ -188,9 +186,9 @@ h2 {
 
 /*Find pr-spoon (fprs)*/
 .BR-fprs {
-    max-width: 200px;
+    max-width: 300px;
     position: relative;
-    left: 70px;
+    left: 30px;
 }
 
 /*Tillyke pr-spoon (tlprs)*/
@@ -199,9 +197,11 @@ h2 {
 }
 /*Done*/
 .Story-end {
+    font-family: 'Arima Madurai', cursive;
     font-size: 2em;
     margin-top: 0.5em;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .BR-gif {
@@ -213,11 +213,14 @@ h2 {
 .Storyend-second {
     font-size: 1.6em;
     margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
 }
 
 .number {
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
     margin-bottom: 0;
+    margin: 0;
 }
 

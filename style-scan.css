@@ -39,6 +39,13 @@ h3 {
 
 /*Scan nisse (sn)*/
 
+.BR-skateboard-gif-sn {
+    position: fixed;
+    max-width: 150px;
+    bottom: 0px;
+    left: 160px;
+}
+
 /*Scan food (sf)*/
 
 .scan-food {
@@ -58,9 +65,9 @@ h3 {
 
 /*Scan parents (spr)*/
 .BR-parents-spr {
-     position: fixed;
-    bottom: 0;
-    height: 160px;
+    position: fixed;
+    width: 220px;
+    bottom: -210px;
 }
 
 /*Scan pr-spoons (sprs)*/
