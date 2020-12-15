@@ -42,6 +42,11 @@ h3 {
 /*Scan food (sf)*/
 
 /*Scan spoon (ss)*/
+.BR-ske-ss {
+    position: fixed;
+    bottom: 0;
+    height: 160px;
+}
 
 
 /*Scan parents (spr)*/
