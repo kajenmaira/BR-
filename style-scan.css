@@ -50,5 +50,13 @@ h3 {
 
 
 /*Scan parents (spr)*/
+.BR-parents-spr {
+     position: fixed;
+    bottom: 0;
+    height: 160px;
+}
+}
 
 /*Scan pr-spoons (sprs)*/
+.BR-sprs {
+   
