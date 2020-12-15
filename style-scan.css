@@ -55,8 +55,12 @@ h3 {
     bottom: 0;
     height: 160px;
 }
-}
 
 /*Scan pr-spoons (sprs)*/
 .BR-sprs {
-   
+    position: fixed;
+    bottom: 0;
+    height: 160px;
+}
+
+
