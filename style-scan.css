@@ -41,6 +41,13 @@ h3 {
 
 /*Scan food (sf)*/
 
+.scan-food {
+    position: fixed;
+    bottom: 0;
+    height: 160px;
+    left: 150px;
+}
+
 /*Scan spoon (ss)*/
 .BR-ske-ss {
     position: fixed;
